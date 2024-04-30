@@ -103,4 +103,3 @@ function asideSectionTogglerBtn() {
   aside.classList.toggle("open");
   navTogglerBtn.classList.toggle("open");
 }
-
