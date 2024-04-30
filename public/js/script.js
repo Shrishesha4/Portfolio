@@ -1,3 +1,4 @@
+
 // Typing animation
 var typed = new Typed(".typing", {
   strings: [
