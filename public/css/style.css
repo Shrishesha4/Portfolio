@@ -693,10 +693,11 @@ h3.my-profession {
 /* Portfolio End */
 
 /* Contact Start */
-.ccontainer {
+.container {
   display: grid;
   align-items: center;
   justify-content: center;
+  margin-top: 75px;
 }
 
 .contact-title {
