@@ -345,7 +345,7 @@ h3.my-profession {
 }
 
 .home-info p {
-  font-size: 20px;
+  font-size: 22px;
   margin-bottom: 70px;
   color: var(--text-black-700);
 }
@@ -390,7 +390,7 @@ h3.my-profession {
 }
 
 @media screen and (max-width: 992px) {
-  .hero-logo-mobile {
+  .hero-logo-mobile {`
     display: inline-block;
   }
 }
